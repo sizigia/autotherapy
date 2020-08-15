@@ -2,4 +2,4 @@
 .env
 .DS_Store
 .DS_Store
-data/sample/
+data/scraped_accounts/
