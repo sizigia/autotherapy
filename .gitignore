@@ -4,3 +4,4 @@
 .DS_Store
 data/scraped_accounts/
 notebooks/__pycache__/
+notebooks/import.py

@@ -7,10 +7,11 @@ from datetime import datetime
 
 import cv2
 import emoji
-import numpy as numpy
+import numpy as np
 import pymongo
 import pytesseract
 from dotenv import load_dotenv
+from pytesseract import Output
 
 
 def extract_hashtags(text, account):
